@@ -422,8 +422,7 @@ DeadlinePilot
 
 ### Team Members
 
-- Aadhya G
-- *(Add teammate names if applicable)*
+- Aadhya Gupta
 
 ---
 
