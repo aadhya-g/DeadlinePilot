@@ -319,26 +319,6 @@ http://localhost:5173
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots here.
-
-```
-screenshots/
-
-Home.png
-
-Dashboard.png
-
-TaskPlanner.png
-
-Insights.png
-
-VoiceAssistant.png
-```
-
----
-
 # 🛠️ How It Works
 
 ### Step 1
